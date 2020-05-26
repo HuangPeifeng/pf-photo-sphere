@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Photo-Sphere"
+    }
+  },
+  "defaultProject": "Photo-Sphere",
+  "cli": {
+    "analytics": false
+  }
 }
